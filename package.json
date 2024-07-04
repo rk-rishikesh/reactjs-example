@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://reactjs-example-phi.vercel.app/",
+  "homepage": "https://rk-rishikesh.github.io/reactjs-example",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
